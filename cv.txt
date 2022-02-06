@@ -2,3 +2,4 @@ Ini adalah file cv
 
 1. Sebuah Institusi nasional
 2. Sebuah perusahaan startup
+3. Sebuah Marketplace
